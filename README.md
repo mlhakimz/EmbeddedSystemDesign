@@ -4,9 +4,12 @@
 
 #### Video: https://youtu.be/XOgXczWW7fc
 
-#### CIRCUIT DIAGRAM
 
-![alt text](https://github.com/mlhakimz/EmbeddedSystemDesign/blob/main/Week4/Exercise7/Circuit%20diagram%20Ex7.JPG)
+<details>
+<summary>CIRCUIT DIAGRAM</summary>
+<img src="https://github.com/mlhakimz/EmbeddedSystemDesign/blob/main/Week4/Exercise7/Circuit%20diagram%20Ex7.JPG">
+</details>
+
 
 #### PROTOTYPE
 
