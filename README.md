@@ -1,21 +1,25 @@
 # EmbeddedSystemDesign
 
-## Week 5 Examples
-### Example 1
-### Example 2
-### Example 3
+## Week 4
 
-## Week 6 Examples
-### Example 1
-### Example 2
-### Example 3
+### GPIO
 
-## Week 7 Examples
-### Example 1
-### Example 2
-### Example 3
+Examples include turning ON and OFF LEDs at different timings, as well as making button counters with debouncing.
 
-## Week 8 Examples
-### Example 1
-### Example 2
-### Example 3
+## Week 5
+
+### Analog Input
+
+Examples include potentiometer with ADC using default arduino library, ADC with On-demand mode, ADC with auto-trigger mode.
+
+## Week 6
+
+### Timer Ports
+
+Examples include generating PWM signals using Fast PWM mode & Phase Correct PWM mode with different timer ports, duty cycles and pre-scaler values.
+
+## Week 7
+
+### Interrupts
+
+Example include applying external interrupts, pin change interrupts and timer interrupts using buttons and LEDs.
