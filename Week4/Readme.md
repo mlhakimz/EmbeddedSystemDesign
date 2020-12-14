@@ -1,4 +1,4 @@
-## Week 4 Examples
+## Week 4 Examples (GPIO)
 ### Example 7
 
 2 LEDs with different ON and OFF timings.
