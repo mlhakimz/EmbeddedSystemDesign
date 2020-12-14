@@ -2,6 +2,8 @@
 ## Week 4 Examples
 ### Example 7
 
+2 LEDs with different ON and OFF timings.
+
 #### Video: https://youtu.be/XOgXczWW7fc
 
 <details>
@@ -14,7 +16,9 @@
 <img src="https://github.com/mlhakimz/EmbeddedSystemDesign/blob/main/Week4/Exercise7/Ex7.JPG">
 </details>
 
-### Example 8
+### Example 8 
+
+Button counter with debouncing.
 
 #### Video: https://youtu.be/DDvdOJFxsr0
 
@@ -29,6 +33,8 @@
 </details>
 
 ### Example 9
+
+8 LEDs with different timings on PORT A on Arduino Mega
 
 #### Video: https://youtu.be/E67LZ446EoY
 
