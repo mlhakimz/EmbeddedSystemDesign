@@ -1,5 +1,9 @@
 # Embedded Systems Design - MCTE 4342
 
+## Webinar - Intro to Embedded Systems
+
+https://drive.google.com/file/d/10Pj86dltr-IhdIWVGqfcaaIa9qZ-2l94/view?usp=sharing
+
 ## Week 4 - GPIO
 
 Examples include turning ON and OFF LEDs at different timings, as well as making button counters with debouncing.
