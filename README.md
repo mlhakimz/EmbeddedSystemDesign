@@ -34,7 +34,7 @@ Examples include using PWM and pulses to control DC motors, servo and stepper mo
 
 ## Week 11 - Communication with other devices
 
-Examples include Serial Communication between Arduino (USART)
+Example include Serial Communication between Arduino and the computer through Serial Monitor
 
 ## Week 12 - Serial Communication
 
