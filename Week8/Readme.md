@@ -1,4 +1,4 @@
-# Non-Volatile Memory
+# Week 8 Examples (Non-Volatile Memory)
 
 ## EEPROM (electrically erasable programmable read-only memory) in Arduino
 
