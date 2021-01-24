@@ -2,8 +2,12 @@
 
 ## Arduino Power Saving (software)
 
-### Setting unused pins as output, Turning off ADC, Turning off Analog Comparator
+### 1) Setting unused pins as output
 
-### Sleep Mode
+### 2) Turning off ADC
 
-### Sleeping with BOD disabled
+### 3) Turning off Analog Comparator
+
+### 4) Sleep Mode
+
+### 5) Sleeping with BOD disabled
